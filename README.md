@@ -5,7 +5,8 @@ This repository provides a set of scripts to perform the singular value decompos
 * [x] Finite array
 * [x] Double-layer metasurface of dielectric rods
 
-To use these codes, you have to install `numpy` and `scipy` as well as `treams` 
+To use these codes, the version of Python must be 3.10 or 3.11 
+and you have to install `numpy` and `scipy<1.17` as well as `treams>0.4` 
 ```sh
 pip install treams
 ```
