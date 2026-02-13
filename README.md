@@ -10,7 +10,7 @@ and you have to install `numpy` and `scipy<1.17` as well as `treams>0.4`
 ```sh
 pip install treams
 ```
-For acoustic systems, also install `acoustotreams`
+For acoustic systems, also install `acoustotreams>0.2.5`
 ```sh
 pip install acoustotreams
 ```
