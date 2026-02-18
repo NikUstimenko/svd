@@ -16,3 +16,5 @@ pip install acoustotreams
 ```
 
 When using this code please cite:
+
+[N. Ustimenko, I. Fernandez-Corbaton, and C. Rockstuhl, Singular value decomposition to describe bound states in the continuum in periodic metasurfaces, arXiv 2602.15741 (2026).](https://arxiv.org/abs/2602.15741)
