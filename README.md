@@ -5,11 +5,11 @@ This repository provides a set of scripts to perform the singular value decompos
 * [x] Finite array
 * [x] Double-layer metasurface of dielectric rods
 
-To use these codes, you have to install `numpy<2` and `scipy<1.16` as well as `treams>0.4` 
+To use these codes, you have to install `treams` 
 ```sh
 pip install treams
 ```
-For acoustic systems, also install `acoustotreams>0.2.5`
+For acoustic systems, also install `acoustotreams`
 ```sh
 pip install acoustotreams
 ```
